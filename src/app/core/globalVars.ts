@@ -1,0 +1,1 @@
+export const direccionAPI:string = 'https://resolute-frog-production.up.railway.app/api';
